@@ -1,0 +1,1 @@
+helm upgrade --install -f my-python-api/values.yaml my-python-api ./my-python-api
